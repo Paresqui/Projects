@@ -6,7 +6,7 @@
 Repositório  contendo meus projetos de Análise de Dados, Data Science e Python
 
 ## Data Analytics/Data Science:
-* **Análise dos Dados do Dataset Gapminder:** https://bityli.com/0tBsOR
+* **Análise dos Dados do Dataset Gapminder:** https://bit.ly/3ofHwhR
 * **Web App de dados financeiros com Streamlit:** https://bityli.com/Y0P3E9
 
 ## Python/Machine Learning:
