@@ -3,7 +3,7 @@
  <p align="left"><img src="./banner_01.jpg" ></p>
  
 # Projects
-Repositório  contendo meus projetos de Análise de Dados e Data Science
+Repositório  contendo meus projetos de Análise de Dados, Data Science e Python
 
 ## Data Analytics/Data Science:
 * **Análise dos Dados do Dataset Gapminder:** https://bityli.com/48QTmy
