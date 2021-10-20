@@ -1,6 +1,6 @@
 
  
- <p align="left"><img src="./Banner.jpg" ></p>
+ <p align="left"><img src="./Banner_.jpg" ></p>
  
 # Projects
 Repositório  contendo meus projetos de Análise de Dados, Data Science e Python
