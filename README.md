@@ -9,7 +9,8 @@ Bacharel em Ciência da Computação pela Faculdade Pitágoras - Unidade Guarapa
  Gosto de resolver desafios e estou em constante busca pelo aprendizado contínuo, onde busco aprimorar cada vez mais meus conhecimentos em Estatística, Machine Learning, Business  Intelligence e Comunicação, com o objetivo de entender melhor o comportamento dos dados e extrair informações valiosas a partir deles. Desse modo, consigo auxiliar a tomada de decisão através de boas análises e um bom Storytelling. 
 
 **Links:**
-    * LinkedIn
+   * [LinkedIn](https://www.linkedin.com/in/gabriela-paresqui/)
+   * [Medium](https://gabrielaparesqui.medium.com/)
 
 # Projects
 Repositório  contendo meus projetos de Análise de Dados, Data Science e Python
