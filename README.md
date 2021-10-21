@@ -2,7 +2,7 @@
  
  <p align="left"><img src="./Banner.png" ></p>
  
-# Gabriela L.Paresqui
+# Gabriela L. Paresqui
  
 Bacharel em Ciência da Computação pela Faculdade Pitágoras - Unidade Guarapari e atuante na área de análise de dados, com sólida experiência em Python, e conhecimento das principais bibliotecas para Data Analysis/Data Science (Pandas, Numpy, Matplotlib, Seaborn, Plotly, Pandera, NLTK, Statsmodels e etc). Além disso, também construo painéis e relatórios analíticos poderosos, seguindo as melhores práticas, desde o levantamento de requisitos até a publicação online e análise dos dados, utilizando técnicas de Data Storytelling em busca da melhor solução para os clientes.
 
