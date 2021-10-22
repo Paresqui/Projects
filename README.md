@@ -12,7 +12,7 @@ Bacharel em Ciência da Computação pela Faculdade Pitágoras - Unidade Guarapa
    * [LinkedIn](https://www.linkedin.com/in/gabriela-paresqui/)
    * [Medium](https://gabrielaparesqui.medium.com/)
 
-# Projects
+# Projetos
 Repositório  contendo meus projetos de Análise de Dados, Data Science e Python
 
 ## Data Analytics/Data Science:
