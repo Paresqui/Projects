@@ -25,3 +25,6 @@ Repositório  contendo meus projetos de Análise de Dados, Data Science e Python
 ## Python/Streamlit:
 * **Detecção de objetos utilizando OpenCV:** https://bit.ly/2Zw3B19
 * **Web App de dados financeiros com Streamlit:** https://bit.ly/2WooM4f
+
+## Power BI
+* **Sales Report Dashboard:** https://bit.ly/3koOWN7
