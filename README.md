@@ -28,4 +28,5 @@ Repositório  contendo meus projetos de Análise de Dados, Data Science e Python
 
 ## Dashboards (Power BI):
 * **Dashboard de Vendas:** https://bit.ly/3wHduWw
+* **Dashboard Logístico:** https://bit.ly/3ChYK1y
 * **Sales Report Dashboard:** https://bit.ly/3koOWN7
