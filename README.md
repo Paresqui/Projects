@@ -27,7 +27,7 @@ Repositório  contendo meus projetos de Análise de Dados, Data Science e Python
 * **Web App de dados financeiros com Streamlit:** https://bit.ly/2WooM4f
 
 ## Dashboards (Power BI):
-* **Dashboard de RH  com Análise de Turnover:** https://bit.ly/3oS04n7
+* **Dashboard de RH  com Análise de Turnover:** https://bit.ly/3xafXJf
 * **Dashboard de Vendas:** https://bit.ly/3wHduWw
 * **Dashboard Logístico:** https://bit.ly/3ChYK1y
 * **Sales Report Dashboard:** https://bit.ly/3koOWN7
