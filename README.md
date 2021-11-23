@@ -1,6 +1,6 @@
 
  
- <p align="left"><img src="./Banner.png" ></p>
+ <p align="left"><img src="./Gitbanner.png" ></p>
  
 # Gabriela L. Paresqui
  
